@@ -9,3 +9,5 @@ Consider visiting venus
 new info from mars
 
 editing on github
+
+Some info on Jupyter
